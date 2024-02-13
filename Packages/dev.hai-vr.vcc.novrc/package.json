@@ -1,0 +1,8 @@
+{
+	"name" : "dev.hai-vr.vcc.novrc",
+	"displayName" : "No VRC",
+	"description" : "A template that does not require VRC",
+	"version" : "1.0.0",
+	"category" : "ProjectTemplate",
+	"dependencies" : {}
+}
